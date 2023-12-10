@@ -1,0 +1,11 @@
+.mySelect{
+   padding: 5px 10px;
+    color: teal;
+    border-color: teal;
+    margin-top: 20px;
+}
+
+.myOption{
+    color: teal;
+    font-size: 14px;
+}

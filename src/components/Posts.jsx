@@ -10,7 +10,7 @@ const Posts = ({post, remove, number}) => {
                         <div>{post.body}</div>
                     </div>
                     <MyButton
-                        onClick={()=> remove(post)}
+                        onClick={()=>remove(post)}
                     >
                         Удалить
                     </MyButton>
